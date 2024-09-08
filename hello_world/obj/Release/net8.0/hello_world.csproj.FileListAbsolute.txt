@@ -1,0 +1,14 @@
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/bin/Release/net8.0/hello_world
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/bin/Release/net8.0/hello_world.deps.json
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/bin/Release/net8.0/hello_world.runtimeconfig.json
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/bin/Release/net8.0/hello_world.dll
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/bin/Release/net8.0/hello_world.pdb
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/hello_world.AssemblyInfoInputs.cache
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/hello_world.AssemblyInfo.cs
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/hello_world.csproj.CoreCompileInputs.cache
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/hello_world.dll
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/refint/hello_world.dll
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/hello_world.pdb
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/hello_world.genruntimeconfig.cache
+/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/obj/Release/net8.0/ref/hello_world.dll

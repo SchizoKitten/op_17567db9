@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9GVi81GFntN4yI6A2VY0eEWKJhaov0nh3jlCzw1NZUhhMVTcBTwc7u3nbKpkLASzCVVGYMM4vu4+0pGUfERuSw==",
+  "success": true,
+  "projectFilePath": "/home/iwtd/documents/Programming/op_study/op_17567db9/hello_world/hello_world.csproj",
+  "expectedPackageFiles": [
+    "/home/iwtd/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/iwtd/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.32/microsoft.netcore.app.host.linux-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
